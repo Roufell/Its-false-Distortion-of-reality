@@ -1,0 +1,150 @@
+{
+  "id": "e214f9e2a7fb4fe3a0e1a0a6537eb5ae",
+  "playerData": {
+    "position": {
+      "x": 6.100014,
+      "y": 0.1,
+      "z": 2.49995613
+    },
+    "rotation": {
+      "x": 270.0,
+      "y": 0.0
+    },
+    "localData": {
+      "health": 100,
+      "playerItems": {
+        "playerItem_0": {
+          "recordingTime": 0,
+          "batteryEnergy": 100.0,
+          "nightVision": false
+        },
+        "playerItem_1": {},
+        "playerItem_2": {},
+        "playerItem_3": {},
+        "playerItem_4": {
+          "flashlightAttached": false
+        },
+        "playerItem_5": {
+          "batteryEnergy": 320.0
+        },
+        "playerItem_6": {
+          "currentFuel": 60.0
+        }
+      }
+    },
+    "globalData": {
+      "inventory": {
+        "expanded": 0,
+        "items": {},
+        "shortcuts": {
+          "shortcut_0": "{}",
+          "shortcut_1": "{}",
+          "shortcut_2": "{}",
+          "shortcut_3": "{}"
+        }
+      },
+      "objectives": {}
+    }
+  },
+  "worldState": {
+    "worldSaveables": {
+      "DraggableItem.5f3545ce38a4df34d90029e02c5545ba": {
+        "position": {
+          "x": -4.85697842,
+          "y": 1.3000021,
+          "z": 1.78309679
+        },
+        "rotation": {
+          "x": 270.0,
+          "y": 0.00552410726,
+          "z": 0.0
+        }
+      },
+      "DraggableItem.a0ea2ce18b2456a4fac72cffce8b3a81": {
+        "position": {
+          "x": -4.76879025,
+          "y": 1.30000341,
+          "z": 1.57179511
+        },
+        "rotation": {
+          "x": 270.0,
+          "y": 330.002319,
+          "z": 0.0
+        }
+      },
+      "DraggableItem.f369f14c808b68d4f89738d761243c1c": {
+        "position": {
+          "x": -5.035772,
+          "y": 0.449999452,
+          "z": 4.11242533
+        },
+        "rotation": {
+          "x": -6.882967E-06,
+          "y": 345.0485,
+          "z": -2.96014065E-07
+        }
+      },
+      "DraggableItem.c883881c2e5b9f44ca64f2a84dc1a107": {
+        "position": {
+          "x": -1.38672352,
+          "y": 0.2999997,
+          "z": 6.79072952
+        },
+        "rotation": {
+          "x": -4.26886836E-05,
+          "y": 155.882874,
+          "z": 90.00001
+        }
+      },
+      "DraggableItem.095c7f43accb6db49b7a9fff7551fc9b": {
+        "position": {
+          "x": -4.964401,
+          "y": 0.449999332,
+          "z": 3.03448987
+        },
+        "rotation": {
+          "x": -3.34109382E-06,
+          "y": -2.23727329E-06,
+          "z": -1.45744634E-05
+        }
+      },
+      "DraggableItem.26c18dec4143a09458acb98e9cca2d57": {
+        "position": {
+          "x": -4.89360332,
+          "y": 0.55009675,
+          "z": 1.7095989
+        },
+        "rotation": {
+          "x": -0.000184056771,
+          "y": -3.57194731E-05,
+          "z": -0.000362168765
+        }
+      },
+      "DraggableItem.101a18a5ddb7a1e459db50d5dd46b715": {
+        "position": {
+          "x": -4.89360666,
+          "y": 0.5500958,
+          "z": 0.609600544
+        },
+        "rotation": {
+          "x": 1.23528307E-05,
+          "y": 1.89988259E-05,
+          "z": -2.78574262E-05
+        }
+      },
+      "DraggableItem.ac764a446fcb37746a1879994036d9f4": {
+        "position": {
+          "x": -3.99708867,
+          "y": 0.300000072,
+          "z": 2.34072876
+        },
+        "rotation": {
+          "x": 8.309726E-05,
+          "y": 29.9999218,
+          "z": 0.000134223839
+        }
+      }
+    },
+    "runtimeSaveables": {}
+  }
+}
