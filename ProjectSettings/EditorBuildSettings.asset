@@ -12,11 +12,8 @@ EditorBuildSettings:
     path: Assets/Content/Scenes/LevelManager.unity
     guid: e8115f250f482ec4d8ad6ea1dc55e505
   - enabled: 1
-    path: Assets/Content/Scenes/DemoScene.unity
-    guid: 68b6b2f6ee9a9e4459fc973536cce5c6
-  - enabled: 1
-    path: Assets/Content/Scenes/DemoScene_2.unity
-    guid: 41fdd5087f659374380ac5f9225f3313
+    path: Assets/Content/Scenes/1 - Sleep.unity
+    guid: 08c431320472cc54695f0d75f3876e78
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: ae838b1c970aab641bb8e4643590df24, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: ce68c4c37abec5347801e4204a280574, type: 2}
